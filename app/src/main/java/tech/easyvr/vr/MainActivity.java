@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         webSettings.setLoadWithOverviewMode(true);
 
         /** Change your VR content in here **/
-        webView.loadUrl("https://www.360easyvr.com/gallery/vrview/359?scene_id=860&features[]=auto-rotate");
+        webView.loadUrl("https://www.360easyvr.com/vr/359?scene_id=860&features[]=auto-rotate");
     }
 
     @Override
