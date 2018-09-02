@@ -12,7 +12,7 @@ Subscribe to our VR content building service: https://www.360easyvr.com/signup.
 
 Check out the tutorial video to know how to create a VR content in Youtube: https://youtu.be/Bu-5xh3s_sM
 
-After you subscribe EasyVR, you should follow the youtube tutorial to create the VR content. You could click to share and copy the link, for example, https://www.360easyvr.com/gallery/vrview/359.
+After you subscribe to EasyVR, you should follow the youtube tutorial to create the VR content. You could click to share and copy the link, for example, https://www.360easyvr.com/gallery/vrview/359.
 
 Change the link to https://www.360easyvr.com/vr/359 and then replace the below line in the `MainActivity.java` file
 ```JAVA
