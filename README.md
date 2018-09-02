@@ -8,7 +8,7 @@ This is the demo code for creating a VR/360 application by just few lines of cod
 Just follow our simple instruction and upload your VR images, you only need to change one line of code in this repository to have an VR application.
 
 # How to apply your own VR
-Go to subscribe our VR content building service: https://www.360easyvr.com/signup.
+Subscribe to our VR content building service: https://www.360easyvr.com/signup.
 
 Check out the tutorial video to know how to create a VR content in Youtube: https://youtu.be/Bu-5xh3s_sM
 
